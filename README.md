@@ -4,4 +4,4 @@ In the graphic below, I compiled test data from two of the sorting methods withi
 
 The two being my fastest (quick bubble sort) which I made completley myself, and the other is Selection sort which I made as a practice method.  
 
-![Sorting method test data]('My Sorting Method vs. Selection Sort.png')
+![Sorting method test data](testData.png)
